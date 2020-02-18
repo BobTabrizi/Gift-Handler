@@ -7,13 +7,21 @@ body{
 
 .login-box{
     max-width:700px;
+    text-align:center;
+
     float:none;
     margin: auto;
 }
 
-.login-left{
+.login-main{
+
     background: rgba(211,211,211,0.5);
     padding:30px;
+    border:3px solid white;
+    text-align:center;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:200px;
 }
 
 .login-right{
@@ -25,6 +33,7 @@ body{
 
 .form-control{
     background-color: transparent;
+
 }
 
 a{
